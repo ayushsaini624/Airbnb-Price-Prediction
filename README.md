@@ -1,6 +1,6 @@
 # Airbnb-Price-Prediction 🏠💸
 
-Predicting nightly Airbnb listing prices using data exploration, feature engineering, and machine learning. This project walks through the full workflow—from raw data to a trained model—so others can reproduce results and extend the work.
+Predicting Airbnb listing prices using data exploration, feature engineering, and machine learning. This project walks through the full workflow—from raw data to a trained model—so others can reproduce results and extend the work.
 
 Project Highlights
 
@@ -26,7 +26,7 @@ README.md and LICENSE
 
 Problem Statement
 
-Given listing metadata (location, property type, room type, amenities, host attributes, reviews, etc.), predict the nightly price.
+Given listing metadata (location, property type, room type, amenities, host attributes, reviews, etc.), predict the price.
 Applications include:
 
 Helping hosts set competitive prices
