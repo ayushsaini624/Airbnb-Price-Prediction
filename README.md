@@ -46,9 +46,6 @@ The dataset was provided by **Internshala platform** during my Data Science trai
   - Tuned Random Forest (GridSearchCV)  
   - Tuned XGBoost (GridSearchCV)  
 
-📷 Model Comparison:  
-![Model Comparison](./Screenshot%202025-09-04%20182639.png)  
-
 ### 📈 Performance Summary  
 - **Initial XGBoost** → RMSE: *0.3763*, MAE: *0.2732*, R²: *0.5812*  
 - **Initial Random Forest** → RMSE: *0.3795*, MAE: *0.2719*, R²: *0.5740*  
