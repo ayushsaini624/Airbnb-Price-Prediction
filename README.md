@@ -17,7 +17,7 @@ The dataset was provided by **Internshala platform** during my Data Science trai
 ---
 
 ## 🛠️ Technologies & Tools Used  
-- **Python** 🐍  
+- **Python**   
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost  
 - **Jupyter Notebook**  
 
@@ -36,9 +36,6 @@ The dataset was provided by **Internshala platform** during my Data Science trai
 ## 🔎 Exploratory Data Analysis (EDA)  
 - Identified **outliers** in key features  
 - Visualized distributions and relationships between variables  
-
-📷 Example (Outlier Detection):  
-![Outlier Plots](./Screenshot%202025-09-04%20182614.png)  
 
 ---
 
@@ -59,23 +56,6 @@ The dataset was provided by **Internshala platform** during my Data Science trai
 - **Tuned Random Forest** → Improved but not better than XGBoost  
 
 ✅ **Final Model Selected:** Tuned XGBoost  
-
----
-
-## 🚀 How to Run the Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/Airbnb-Price-Prediction.git
-   cd Airbnb-Price-Prediction
-   ```  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Run the Jupyter Notebook:  
-   ```bash
-   jupyter notebook "Project A (python file).ipynb"
-   ```  
 
 ---
 
