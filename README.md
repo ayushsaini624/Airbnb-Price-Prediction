@@ -1,4 +1,4 @@
-# 🏡 Airbnb Price Prediction using Machine Learning  
+# 🏡 Airbnb Price Prediction 
 
 ## 📌 Overview  
 This project predicts Airbnb listing prices using **machine learning models**. The aim is to help hosts and guests better understand pricing dynamics based on features like location, room type, reviews, and host behavior.  
